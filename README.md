@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Michael Repompo
-- 👀 I’m interested in C, JS, and Cisco Networking
-- 🌱 I’m currently learning C programming and JavaScript
+- 👀 I’m interested in C, Java, JS, and Cisco Networking
+- 🌱 I’m currently learning C programming, Java, and JavaScript
 - 📫 How to reach me: johnm.repompo@gmail.com
 
 <!---
